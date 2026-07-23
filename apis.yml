@@ -1,7 +1,17 @@
 aid: 1huddle
 name: 1Huddle
-description: 1Huddle is a company surfaced as a portfolio company of 500-global and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  1Huddle is a Newark, New Jersey workforce training platform that uses
+  science-backed, quick-burst mobile games to onboard, upskill, and engage
+  employees. Founded by Sam Caucci, the platform offers a mobile library of
+  3,000+ skill games across 16 workforce skill areas, an on-demand game
+  marketplace, and personalized content, with clients including Loews Hotels,
+  Novartis, Madison Square Garden, PIMCO, and the U.S. Air Force. 1Huddle
+  integrates with LMS, HRIS, authoring, and reporting tools (Microsoft Teams,
+  Slack, Workday, Salesforce, Cornerstone, and more) and exposes flexible SSO,
+  User Feeds, and Reporting APIs through a partner program rather than a public
+  self-service developer portal. Surfaced as a portfolio company of 500 Global
+  and profiled in the API Evangelist network.
 url: https://raw.githubusercontent.com/api-evangelist/1huddle/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +19,30 @@ x-backed-by:
 - 500-global
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: approval
+  trial: false
+  try_now: false
+  public: false
+  label: Requires approval
+  confidence: medium
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
 modified: '2026-07-17'
+image: https://1huddle.co/wp-content/themes/1huddle/assets/img/logo.png
 tags:
 - Company
+- Workforce Training
+- Gamification
+- Employee Onboarding
+- Learning and Development
+- Microlearning
+- HR Technology
+- Upskilling
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +52,24 @@ maintainers:
 common:
 - type: Website
   url: https://1huddle.co
+- type: Pricing
+  url: https://1huddle.co/pricing/
+- type: Blog
+  url: https://1huddle.co/blog/
+- type: Support
+  url: https://1huddle.co/contact/
+- type: Login
+  url: https://app.1huddle.co
+- type: TermsOfService
+  url: https://1huddle.co/terms-of-service/
+- type: PrivacyPolicy
+  url: https://1huddle.co/privacy/
+- type: Integrations
+  url: https://1huddle.co/integrations/
+- type: DomainSecurity
+  url: security/1huddle-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
