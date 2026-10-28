@@ -64,6 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-1Huddle is a company surfaced as a portfolio company of 500-global and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+1Huddle is a Newark, New Jersey workforce training platform that uses science-backed, quick-burst mobile games to onboard, upskill, and engage employees. Founded by Sam Caucci, the platform offers a mobile library of 3,000+ skill games across 16 workforce skill areas, an on-demand game marketplace, and personalized content, with clients including Loews Hotels, Novartis, Madison Square Garden, PIMCO, and the U.S. Air Force. 1Huddle integrates with LMS, HRIS, authoring, and reporting tools (Microsoft Teams, Slack, Workday, Salesforce, Cornerstone, and more) and exposes flexible SSO, User Feeds, and Reporting APIs through a partner program rather than a public self-service developer portal. Surfaced as a portfolio company of 500 Global and profiled in the API Evangelist network.
 
-Backed by: 500-global — https://1huddle.co
+**Areas:** Company · Workforce Training · Gamification · Employee Onboarding · Learning and Development · Microlearning · HR Technology · Upskilling
+
+## 1Huddle on APIs.io
+
+Everything profiled for 1Huddle is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/1huddle/](https://apis.io/providers/1huddle/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [1Huddle Domain Security](https://apis.io/security/1huddle/1huddle-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://1huddle.co)
+- [Pricing](https://1huddle.co/pricing/)
+- [Support](https://1huddle.co/contact/)
+- [Blog](https://1huddle.co/blog/)
+- [Terms of service](https://1huddle.co/terms-of-service/)
+- [Privacy policy](https://1huddle.co/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 13.7** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 38.2 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/1huddle/](https://apis.io/providers/1huddle/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for 1Huddle: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/1huddle/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
